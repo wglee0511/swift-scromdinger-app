@@ -16,6 +16,7 @@
 		E4BCB1ED2B68DEFE0053BF3E /* SwiftScromdingerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BCB1EC2B68DEFE0053BF3E /* SwiftScromdingerTests.swift */; };
 		E4BCB1F72B68DEFE0053BF3E /* SwiftScromdingerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BCB1F62B68DEFE0053BF3E /* SwiftScromdingerUITests.swift */; };
 		E4BCB1F92B68DEFE0053BF3E /* SwiftScromdingerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BCB1F82B68DEFE0053BF3E /* SwiftScromdingerUITestsLaunchTests.swift */; };
+		E4BCB2062B68E0470053BF3E /* ProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BCB2052B68E0470053BF3E /* ProgressBarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		E4BCB1F22B68DEFE0053BF3E /* SwiftScromdingerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftScromdingerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4BCB1F62B68DEFE0053BF3E /* SwiftScromdingerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftScromdingerUITests.swift; sourceTree = "<group>"; };
 		E4BCB1F82B68DEFE0053BF3E /* SwiftScromdingerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftScromdingerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E4BCB2052B68E0470053BF3E /* ProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				E4BCB1D62B68DEFD0053BF3E /* SwiftScromdingerApp.swift */,
 				E4BCB1D82B68DEFD0053BF3E /* ContentView.swift */,
+				E4BCB2052B68E0470053BF3E /* ProgressBarView.swift */,
 				E4BCB1DA2B68DEFE0053BF3E /* Assets.xcassets */,
 				E4BCB1DF2B68DEFE0053BF3E /* Persistence.swift */,
 				E4BCB1E12B68DEFE0053BF3E /* SwiftScromdinger.xcdatamodeld */,
@@ -265,6 +268,7 @@
 			files = (
 				E4BCB1E02B68DEFE0053BF3E /* Persistence.swift in Sources */,
 				E4BCB1D92B68DEFD0053BF3E /* ContentView.swift in Sources */,
+				E4BCB2062B68E0470053BF3E /* ProgressBarView.swift in Sources */,
 				E4BCB1D72B68DEFD0053BF3E /* SwiftScromdingerApp.swift in Sources */,
 				E4BCB1E32B68DEFE0053BF3E /* SwiftScromdinger.xcdatamodeld in Sources */,
 			);
